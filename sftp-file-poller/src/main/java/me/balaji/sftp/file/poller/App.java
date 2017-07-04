@@ -25,7 +25,7 @@ public class App {
 	
 	static String hostName = "localhost";
 	static String username = "balajivijayan";
-	static String password = "mac@1990";
+	static String password = "";
 	static String remoteFilePath = "/Users/balajivijayan/devenv/file-watcher/source";
 	
     public static void main( String[] args )
